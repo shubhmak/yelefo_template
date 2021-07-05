@@ -1,0 +1,16 @@
+{
+  "name": "yelefo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d yelefo_animated"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"http://shubhmak.github.io/yelefo_template",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
