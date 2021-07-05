@@ -1,0 +1,63 @@
+#navb {
+  position: fixed;
+  z-index: 1;
+}
+
+.navbar-nav {
+  font-weight: 400;
+}
+
+.nav-item {
+  margin-right: 25px;
+}
+
+h2 {
+  font-weight: 800;
+}
+
+#bubl {
+  transform: scale(1.5);
+}
+
+#a {
+  position: absolute;
+  height: 175px;
+  width: 175px;
+}
+
+#b {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+}
+
+#qw ul {
+  list-style-image: url(../../assets/img/cm16.png);
+}
+
+.bs {
+  box-shadow: 4px 4px 10px #a1a1a1, -4px -4px 10px #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+hr {
+  color: rgb(8,63,119);
+  font-size: 44px;
+  font-weight: 800;
+  border-style: solid;
+  border-color: var(--blue);
+}
+
+.nav-item:hover {
+  box-shadow: 4px 4px 10px #121212, -4px -4px 10px #4a4a4a;
+}
+
+.nav-item {
+  border-radius: 25%;
+}
+
+#btnn {
+  box-shadow: 4px 4px 10px #121212, -4px -4px 10px #4a4a4a;
+}
+
